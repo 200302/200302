@@ -3,6 +3,10 @@ body {
 	background-image: url("img/back1.png");
     font-family: monospace;
     background-size:1200px 600px;
+    background-repeat: no-repeat;
+    background-color: #20138e;
+
+
 
 
 
@@ -44,6 +48,7 @@ body {
 #exploreBody {
 	background-image: url("img/exploreHome1.jpg");
 	background-position: bottom center;
+    background-color: white;
 
 }
 
@@ -53,14 +58,14 @@ body {
     width:500px;
     border:1px solid #ccc;
     font:16px/26px Georgia, Garamond, Serif;overflow:auto;
-    margin-left: 500px;
+    width:800px; margin:0 auto;
     
 }
 
 #wible {
     position: absolute;
-    top:10%;
-    left:60%;
+    width:800px; 
+    margin:0 auto;
 }
 
 #start {
@@ -71,6 +76,13 @@ body {
 }
 
 #all1{
+
+    height:100%;
+    width:100%;
+
+
+
+    
 
 
 }
