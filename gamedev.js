@@ -1,5 +1,10 @@
 $( document ).ready(function() {
 
-//Your jquery goes here
+$("#next").click(function(){
+	$( "#talkbox" ).hide();
+	$( "#wible" ).hide();
+	$( "#exploreBody" ).css("background-image","url(img/back2.png)");
 
 });
+});
+

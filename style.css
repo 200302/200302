@@ -46,7 +46,7 @@ body {
 /*Stuff below governs the Explore screen*/
 
 #exploreBody {
-	background-image: url("img/back2.jpg");
+	background-image: url("img/back2.png");
 	background-position: top center;
     background-repeat: no-repeat;
     
@@ -60,8 +60,12 @@ body {
     border:1px solid #ccc;
     font:16px/26px Georgia, Garamond, Serif;overflow:auto;
     width:800px; margin:0 auto;
+    color:#1aff00;
+    margin-top:-50px;
     
 }
+
+#talkbox
 
 #wible {
     position: absolute;
