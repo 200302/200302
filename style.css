@@ -88,3 +88,25 @@ body {
 
 
 }
+
+
+#jodie{
+    background-image:url("img/jodie.gif");
+    height:200px;
+    width:200px;
+    position:absolute;
+    margin-top:400px;
+    margin-left:250px;
+ background-size:200px 200px;
+}
+
+ #bulletleft{
+   position:absolute;
+   margin-top:41px;
+ }
+ #bulletright{
+    position:absolute;
+    margin-top:41px;
+    margin-left:150px;
+ }
+    
