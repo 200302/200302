@@ -109,5 +109,9 @@ body {
     margin-top:41px;
     margin-left:150px;
  }
- #squid{position:absolute;margin-bottom:400px;margin:300px;}
+ #squid{
+    position:absolute;
+    margin-top:41px;
+    margin:150px;
+}
     
